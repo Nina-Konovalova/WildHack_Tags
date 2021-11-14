@@ -19,7 +19,7 @@
 
 ## Похожие товары
 
-Для того, чтобы подробнее ознакомиться с кодом программы - необходимо запустить файл:
+Для того, чтобы подробнее ознакомиться с кодом программы - необходимо запустить последнюю ячейку `Final whole tag creation process.`:
 
 [WildHack_similar_tags.ipynb](https://github.com/Nina-Konovalova/WildHack_Tags/blob/main/WildHack_similar_tags.ipynb)
 
