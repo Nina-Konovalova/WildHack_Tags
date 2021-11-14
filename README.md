@@ -3,7 +3,7 @@
 
 Данные проект был разработан с целью решения Tags problem для WildHack. 
 
-Здесь вы можете найти нашу [презентацию](presenation.pdf).
+Здесь вы можете найти нашу [презентацию](https://docs.google.com/presentation/d/1Gz2pAfyW4l21TmB5ZuAHKxu-zdVjQ2Bwt1iS5XAPKEg/edit?usp=sharing).
 
 Поисковые теги должны были выполнять следующие функции:
 
